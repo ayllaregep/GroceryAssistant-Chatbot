@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pasta with Tomato Sauce",
+    "ingredients": ["pasta", "tomato", "garlic", "basil"]
+  },
+  {
+    "name": "Greek Salad",
+    "ingredients": ["lettuce", "tomato", "cucumber", "olives", "feta cheese"]
+  },
+  {
+    "name": "Peanut Butter and Jelly Sandwich",
+    "ingredients": ["bread", "peanut butter", "jelly"]
+  }
+]
