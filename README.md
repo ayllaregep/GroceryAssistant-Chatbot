@@ -22,4 +22,4 @@ SAU
 
 ### To do:
 
-In database -> recipes.json -> adauga cat mai multe retete
+In database -> recipes.json 
